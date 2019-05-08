@@ -5,5 +5,5 @@
 
 int main()
 {
-	std::cout << "I want die";
+	std::cout << "I want die less die"; 
 }
